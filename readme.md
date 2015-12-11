@@ -1,6 +1,6 @@
 #### 题目需求
 
-1.	完成一个可以根据成绩判断等级的函数,要求
+完成一个可以根据成绩判断等级的函数,要求
 
 ```
 输入成绩大于等于90小于等于100,则输出"S"
@@ -10,4 +10,4 @@
 输入成绩大于等于0小于60,则输出中文"D"
 ```
 
-1.	Jasmine 2.4 API 可参考 [链接](http://jasmine.github.io/2.4/introduction.html)
+Jasmine 2.4 API 可参考 [链接](http://jasmine.github.io/2.4/introduction.html)
